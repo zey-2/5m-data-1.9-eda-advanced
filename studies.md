@@ -2,7 +2,7 @@
 
 ## Brief
 
-In this lesson, we will learn about advanced data transformation and statistical analysis.
+In this lesson, we will learn how to apply correlation, join and reshape data, aggregate and cross tabulate data, handle date time data, and apply window functions.
 
 ### Foundation
 
